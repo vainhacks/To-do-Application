@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Purple Tones for Highlights -->
+    <color name="primaryColor">#9035FF</color>
+    <color name="primaryColorVariant">#7A19FF</color>
+    <color name="secondaryColor">#6200EA</color>
+    <color name="lightGray">#E0E0E0</color>
+
+    <!--  dark theme  -->
+    <color name="lightBlack">#4E4E4E</color>
+</resources>
